@@ -46,4 +46,11 @@ PHP versi 7.4 atau lebih tinggi ,dengan mengaktifkan  library:
 - mbstring
 
 # Screenshoot
+1. Dashboard
 <img width="920" alt="dashboard_ukkpos" src="https://github.com/oyasuryana/kasir-ci4/assets/40240886/8a0f7102-a264-4198-9f01-be979049ab95">
+2. Transaksi Penjualan
+<img width="924" alt="transsaksi" src="https://github.com/oyasuryana/kasir-ci4/assets/40240886/a93c38b3-e17c-49a0-8e2c-6f487b490435">
+3. Laporan
+<img width="923" alt="laporan" src="https://github.com/oyasuryana/kasir-ci4/assets/40240886/2f9decf3-3db3-4ed8-ad26-97aece6e4b05">
+
+5. 
