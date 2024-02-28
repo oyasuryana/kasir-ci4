@@ -34,7 +34,7 @@ Aplikasi ini merupakan contoh project uji kompetensi program keahlian Rekayasa P
 # Default User
 Berikut user dan password default
 
-| Username      | Password      | Lever  |
+| Username      | Password      | Lever |
 | ------------- |-------------  | ----- |
 | admin         | 123           | admin |
 | kasir         | 123           | kasir |
